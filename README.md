@@ -1,4 +1,4 @@
-# Personalized Recommender System
+# Personalized Recipe Recommender System (PRRS)
 Contributors: Shayan Boghani, Sarah Bodmer, Amrita Moturi, Shelby Myrman
 
 ## Overview
