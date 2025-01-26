@@ -1,4 +1,5 @@
 # Personalized Recommender System
+Contributors: Shayan Boghani, Sarah Bodmer, Amrita Moturi, Shelby Myrman
 
 ## Overview
 This repository contains the [implementation](https://github.com/sbogh/personalized-recipe-recommender-system/blob/main/CSE_258_Assignment_2_Notebook.ipynb) for a set of hybrid recommender system models for the Food.com Recipe Dataset found [here](https://cseweb.ucsd.edu/~jmcauley/datasets.html#foodcom).
