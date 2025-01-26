@@ -2,7 +2,7 @@
 Contributors: Shayan Boghani, Sarah Bodmer, Amrita Moturi, Shelby Myrman
 
 ## Overview
-This repository contains the [implementation](https://github.com/sbogh/personalized-recipe-recommender-system/blob/main/CSE_258_Assignment_2_Notebook.ipynb) for a set of hybrid recommender system models for the Food.com Recipe Dataset found [here](https://cseweb.ucsd.edu/~jmcauley/datasets.html#foodcom).
+This repository contains the [implementation](https://github.com/sbogh/personalized-recipe-recommender-system/blob/main/PRRS_Notebook.ipynb) for a set of hybrid recommender system models for the Food.com Recipe Dataset found [here](https://cseweb.ucsd.edu/~jmcauley/datasets.html#foodcom).
 
 ## Abstract
 This paper presents a personalized recipe recommendation system based on user-recipe interaction data
@@ -16,4 +16,4 @@ content-based filtering and logistic regression model outperformed baselines, ac
 with opportunities for future improvements in handling sparse datasets and enhancing personalization.
 
 ## Paper
-The full paper can be found [here](https://github.com/sbogh/personalized-recipe-recommender-system/blob/main/CSE_258_Assignment_2_Paper.pdf).
+The full paper can be found [here](https://github.com/sbogh/personalized-recipe-recommender-system/blob/main/PRRS_Paper.pdf).
